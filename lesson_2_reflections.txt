@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	A hidden folder is created. There is not yet a commit. The git folder is a hidden folder. Visible with the code git log -a
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	It lets you to work in logical steps. Give's more control about how to build up your repository
